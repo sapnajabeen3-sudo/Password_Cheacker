@@ -1,0 +1,15 @@
+# 🧠 Simple IQ Quiz App
+
+A beginner-friendly IQ Quiz App built using Python and Streamlit.
+
+## Features
+
+- 5 IQ questions
+- Instant score
+- Beautiful UI
+- Beginner friendly
+
+## Tech Stack
+
+- Python
+- Streamlit
